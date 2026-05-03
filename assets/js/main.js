@@ -324,7 +324,7 @@
       covoiturage: {
         titre: "Covoiturage",
         description: "Site en Symfony et Bootstrap",
-        details:"Projet accadémique réalisé pour maitriser le concepte Interaction Homme-Machine, orrienté vèrs design et hergonomie pour facilité la manipulation des utilisateurs. </br> C'est une plateforme de covoiturage reliant des utilisateur de même itinéraire sur un même trajet. </br> Programé en Symfony, le code est lisible sur le lien: <a href='https://github.com/SandaRakotomihamina/Covoiturage'>cliquer ici</a> ",
+        details:"Projet académique réalisé pour maîtriser le concept Interaction Homme-Machine, orienté vers design et ergonomie pour facilité la manipulation des utilisateurs. Programé en Symfony le code est lisible sur le lien: <a href='https://github.com/SandaRakotomihamina/Covoiturage'>cliquer ici</a> ",
         images: [
           "assets/img/portfolio/covoiturage/covoiturage1.png",
           "assets/img/portfolio/covoiturage/covoiturage2.png",
